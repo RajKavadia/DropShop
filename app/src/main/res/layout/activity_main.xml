@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:theme="@style/Platform.MaterialComponents">
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recyclerview"
+        android:background="@android:color/white"
+        tools:context=".MainActivity">
+    </androidx.recyclerview.widget.RecyclerView>
+<Button
+    android:id="@+id/fab"
+    android:layout_width="match_parent"
+    android:text="      Add Json file        "
+    android:drawableTint="@android:color/white"
+    android:drawableStart="@drawable/ic_add_24dp"
+    android:paddingStart="10dp"
+    android:layout_height="wrap_content"
+    android:textColor="@android:color/white"
+    android:background="@color/colorPrimary"
+    android:layout_gravity="bottom|end">
+
+</Button>
+</FrameLayout>

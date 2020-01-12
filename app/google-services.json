@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537089310614",
+    "firebase_url": "https://dropshop-3728a.firebaseio.com",
+    "project_id": "dropshop-3728a",
+    "storage_bucket": "dropshop-3728a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537089310614:android:200f3f446806cdc63fa7b7",
+        "android_client_info": {
+          "package_name": "com.DropShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537089310614-fo9lhcj08gl17mig1t9qhg3vk57gg59p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DropShop",
+            "certificate_hash": "36a497adb2a6c4784fe39e8beb267df74d76b3a4"
+          }
+        },
+        {
+          "client_id": "537089310614-09u7f8c5guef7abmhi60o29bot2gfopp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5xO0FcZnzlu9YsH84_SbsQ5-We5rwn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537089310614-09u7f8c5guef7abmhi60o29bot2gfopp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
